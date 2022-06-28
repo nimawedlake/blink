@@ -1,0 +1,22 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install -D vuepress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimawedlake/blink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimawedlake/blink/issues"
+  },
+  "homepage": "https://github.com/nimawedlake/blink#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
